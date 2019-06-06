@@ -7,6 +7,7 @@
 
 package org.datacontract.schemas._2004._07.LKQIntegrationService_Core_Entities;
 
+
 public class CallResponseOfOrderingResponse4MCb5AyH  extends org.datacontract.schemas._2004._07.LKQIntegrationService_Core_Entities.CallResponse  implements java.io.Serializable {
     private org.datacontract.schemas._2004._07.LKQIntegrationService_Core_Ordering_Entities.OrderingResponse value;
 
